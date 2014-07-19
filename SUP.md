@@ -7,4 +7,6 @@ datasciencecoursera
 * first
 * second
 * third
-* 
+
+a <- available.packages ()
+
